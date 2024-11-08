@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "target": "ES2017",
+        "allowJs": false,
+        "noImplicitAny": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true
+    }
+}
